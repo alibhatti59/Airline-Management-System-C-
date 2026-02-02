@@ -43,3 +43,9 @@ The project is structured into three distinct layers to maintain high standards 
 | :---: | :---: |
 | ![Login Screen](screenshots/login.png) | ![Registration Form](screenshots/registration.png) |
 | *Professional Centered Login* | *Passenger Registration Portal* |
+
+| **Manage Flights** | **Book Tickets** |
+| :---: | :---: |
+| ![Flight Management](screenshots/flights.png) |  ![Ticket Booking](screenshots/booking.png) |
+| *Logistics: Add/Update/Delete Flights* | *Automated Seat & Amount Calculation* |
+
