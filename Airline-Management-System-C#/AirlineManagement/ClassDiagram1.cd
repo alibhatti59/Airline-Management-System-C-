@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AirlineManagement.LoginForm" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAEAABEAAACAAAACAAAAKAACABABAQFwAEA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagement.RegisterForm" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgABAACAAEAABEAAACAAEACAAAAAAAAABAAAQFgAEA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagement.FlightsTbl" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAECAAQBCAAACAAAICACEAJAAAAAEBEQBAAQg=</HashCode>
+      <FileName>FlightsTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagement.AddPassenger" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAECAgABAAAACAgACCJCEAJAgAAAEBARBUCAA=</HashCode>
+      <FileName>AddPassenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagement.Tickets" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEACAAAGSIAABRAAACBECAKGCkEIAAQAAAAAUBADSQ=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirlineManagement.CancellationTbl" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAESAAABEAAACAAEACCKEAIAAAAAAAAQBAAAA=</HashCode>
+      <FileName>CancellationTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
